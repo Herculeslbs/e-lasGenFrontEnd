@@ -1,4 +1,6 @@
 <h1 align="center"><a href="https://imgur.com/eYEnHfH"><img src="https://i.imgur.com/eYEnHfH.png" title="source: imgur.com" /></a></h1>
+<h1> 📁 Acesso ao projeto</h1>
+<h2>Clique <a href="https://elasgen.netlify.app/">aqui</a> para ser direcionado ao nosso site.</h2><br>
 <h1>ℹ Sobre o Projeto</h1>
 <h2>
 <p>Projeto final da turma 54 da Generation Brasil.</p>
@@ -17,8 +19,7 @@
 <p><b>Dashboard:</b></p>
 <p>Caso o usuário tenha uma perfil de administrador, poderá deletar e adicionar produtos e categorias,conforme a necessidade do estoque. </p>
 </h2> <br>
-<h1> 📁 Acesso ao projeto</h1>
-<h2>Clique <a href="https://elasgen.netlify.app/">aqui</a> para ser direcionado ao nosso site.</h2><br>
+
 <h1> Implementações futuras</h1>>
 <h2>
 <p>Integração total do carrinho de compras.</p>
