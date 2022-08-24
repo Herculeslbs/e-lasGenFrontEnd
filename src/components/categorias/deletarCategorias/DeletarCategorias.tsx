@@ -47,7 +47,7 @@ async function findById(id: string){
      }
   
      function sim(){
-      History('/listacategorias')
+      History('/dashbord')
       deleteId(`/categorias/${id}`,{
       headers:{
         'Authorization':token
@@ -65,7 +65,7 @@ async function findById(id: string){
   });
       }
       function nao(){
-      History('/listacategorias')
+      History('/dashbord')
       }
   return (
     <>

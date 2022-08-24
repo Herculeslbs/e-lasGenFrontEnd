@@ -13,6 +13,7 @@ import CarouselDestaqueProdutos from './../../components/carousel/carouselDestaq
 import CarouselPropaganda from '../../components/carousel/carouselPropaganda/CarouselPropaganda';
 import FaleConosco from './../../components/contato/faleConosco/FaleConosco';
 import Dashbord from '../dashbord/Dashbord';
+import ListaProduto from '../../components/produtos/listaProduto/ListaProduto';
 
 
 
@@ -61,10 +62,10 @@ import Dashbord from '../dashbord/Dashbord';
 
             <Grid>
             <Box paddingX={1} >
-                <Typography variant="h5" gutterBottom color="textPrimary" component="h5" align="left" className='titulo'>Baseado no seu carrinho de compras
+                <Typography variant="h5" gutterBottom color="textPrimary" component="h5" align="left" className='titulo'>
                 </Typography>
             </Box>
-                <CarouselProduto/>
+                <ListaProduto/>
             </Grid>
 
             <Grid>

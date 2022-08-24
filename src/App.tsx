@@ -3,7 +3,7 @@ import './App.css';
 
 import Home from "./paginas/home/Home";
 import Login from "./paginas/login/Login";
-import Navbar from "./components/estaticos/navbar/Navbar";
+import Navbar from "./components/estaticos/navbar/NavbarUsuario";
 import Footer from "./components/estaticos/footer/Footer";
 import Sobre from "./paginas/sobre/Sobre";
 

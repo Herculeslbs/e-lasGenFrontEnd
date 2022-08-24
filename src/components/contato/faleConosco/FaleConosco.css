@@ -1,20 +1,40 @@
 .containerFaleConosco {
-    width: 100vw;
+    width: 1350px !important;
     height: 45vh;
-    margin: 25px auto;
-    box-sizing: border-box!important;
-    background-image: url('https://img.freepik.com/vetores-gratis/fundo-rosa-com-ondas-abstratas_1393-257.jpg?w=2000');
+    margin-bottom: 25px!important;
+    
+    background-color: #FEE5E5 !important;
     display: flex!important;
-    flex-direction: column!important;
-    justify-content: center!important;
-    align-items: center!important;
-}
-
-.containerFaleConoscoTitulo {
-    margin-bottom: 25px;
+   
 }
 
 .faleConoscoTitulo {
-    font-size: 2em!important;
-    font-weight: 700!important;
+   color: #d2738d !important;
+   font-size: 30px !important;
+   margin-left: 50px !important;
+   margin-top: 30px !important;
+   margin-bottom: 15px !important;
+}
+
+.faleConoscoTxt {
+    margin-left: 50px !important;
+}
+
+.containerFaleConoscoTxt {
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: flex-start!important;
+    align-items: flex-start!important;
+    
+}
+
+.btnInput {
+    margin-top: 30px !important;
+    width: 400px !important;
+    height: 100px !important;
+}
+
+.inputs {
+    width: 600px !important;
+    margin-top: 28px !important;
 }

@@ -1,0 +1,59 @@
+
+
+.text-decorator-none{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    
+}
+
+.containerMenu {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.containerMenu:hover {
+    border-bottom: 3px  solid rgb(0, 0, 0)!important;
+    border-top: 3px  solid rgb(0, 0, 0)!important;
+   font-weight: bold;
+}
+
+
+.background-navbar {
+    background-color: #E58787 !important;
+    display: flex;
+    width: 100%!important;
+    
+}
+
+.container-navbar-menu {
+    width: 70%;
+    display: flex;
+    justify-content: end!important;
+    gap: 25px;
+    text-transform: uppercase;
+}
+
+.container-navbar-logo {
+    width: 30%;
+    cursor:pointer;
+    cursor:white;
+    text-transform: uppercase;
+
+}
+
+.logo {
+    width: 300px;
+    
+}
+
+.carrinhoNav {
+    color: black;
+    width: 45px !important;
+    margin-right: 15px !important;
+}
+
+.login {
+    width: 35px;
+    
+}

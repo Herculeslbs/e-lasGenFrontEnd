@@ -39,9 +39,24 @@ body {
   align-items: center;
 }
 
-.swiper-slide img {
+.swiper-slide  {
   display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.ImgPropaganda {
+  width: 800px !important;
+  height: 350px !important;
+
+  
+}
+
+.BoxPropaganda {
+  background-color: white !important;
+  width: 1350px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  text-align: center;
 }

@@ -29,15 +29,9 @@ import { Autoplay, Pagination, Navigation } from "swiper";
         modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://i.imgur.com/C6EuPtV.png" alt="" /></SwiperSlide>
+        <SwiperSlide className="Slide"><img src="https://i.imgur.com/QHfMSpr.png" alt="" /></SwiperSlide>
+        <SwiperSlide className="Slide"><img src="https://i.imgur.com/NuG1Ci7.png" alt="" /></SwiperSlide>
+        <SwiperSlide className="Slide"><img src="https://i.imgur.com/6go8EO1.jpg" alt="" /></SwiperSlide>
       </Swiper>
     </>
   );

@@ -49,9 +49,7 @@ function ListaCategorias() {
             <Typography color="textSecondary" gutterBottom>
               Categorias
             </Typography>
-            <Typography variant="h5" component="h2">
-              {categorias.tipo}
-            </Typography>
+            
             <Typography variant="h5" component="h2">
               {categorias.classe}
             </Typography>

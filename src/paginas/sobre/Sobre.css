@@ -1,0 +1,169 @@
+.Container {
+    background-image: url('https://i.imgur.com/8gcNi1u.jpeg');
+    height: 300px!important;
+    margin-bottom: 40px !important;
+    background-size: cover !important;
+}
+.img10 {
+    width: 80% !important;
+    height: 80% !important;
+}
+.ContainerBoxTitulo {
+    background-image: url('https://i.imgur.com/uILke0i.png');
+    height: 450px!important;
+    background-color: #FDE3E2;
+    background-size: 20% !important;
+    margin-top: 50px !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    margin-bottom: 50px !important;
+    text-align: center !important;
+    flex-direction: row !important;
+    box-shadow: 0px 5px 40px #E58787 !important;
+}
+
+.ContainerBoxSubtitulo {
+    margin: 25px auto;
+    padding: 30px 30px 0;
+}
+
+.BoxSubtitulo {
+    font-size: 2rem!important;
+    font-weight: bold!important;
+}
+
+.BoxSubtitulo1 {
+    font-size: 2rem!important;
+    font-weight: bold!important;
+    text-align: center !important;
+    padding: 10px!important;
+}
+
+.ContainerBoxDescricao {
+    margin: 25px auto;
+    padding: 0 60px ;
+}
+
+.ContainerBoxImg {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.BoxDescricao {
+    font-size: 1rem!important;
+    text-align: center;
+    
+}
+
+.ContainerPerfil {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 40px 30px;
+}
+
+.Alinhamento {
+    text-align: center;
+    padding: 30px 30px 0;
+}
+
+.imgSobre {
+    margin-right: 20px !important;
+}
+
+.avatarMay {
+    width: 150px !important;
+    height: 140px !important;
+    margin-right: 20px !important;
+    
+}
+
+.Boxavatar{
+    display: flex;
+    justify-content: start;
+    margin-left: 40px !important;
+}
+
+.TxtMay {
+    text-align: center;
+    margin-top: 40px!important;
+    padding: 0 60px ;
+}
+
+.TxtMay1 {
+    text-decoration: none !important;
+    padding: 0px 30px !important;
+    color: black;
+    font-weight: bold;
+    margin-top: 15px !important;
+}
+
+.avatarCard {
+    width: 150px !important;
+    height: 140px !important;
+    margin-bottom: 5px !important;
+}
+
+.imgDev{
+    width: 40px !important;
+    height: 40px!important;
+    margin-bottom: 2px !important;
+    
+}
+
+.imgDev1 {
+    width: 42px !important;
+    height: 43px !important;
+    margin-right: 10px !important;
+    
+}
+
+.cardDev {
+    background-color: #FEE5E5 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    height: 210px !important;
+    width: 180px !important;
+    box-shadow: 0px 0px 3px  #E58787 !important;
+    transition: .3s !important;
+    padding: 1% !important;
+    border-radius: 10px !important;
+    margin-right: 45px !important;
+    margin-bottom: 60px !important;
+}
+
+.cardDev:hover {
+    box-shadow:     0px 0px 60px  #E58787!important;
+    transform: scale(110%) !important;
+    transition: .3s !important;
+} 
+
+
+
+.containerCard{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.TxtCard {
+    font-weight: bold !important;
+    margin-bottom: 5px !important;
+}
+
+.containerBackCard {
+    background-image: url('https://i.imgur.com/8gcNi1u.jpeg');
+    background-size: cover !important;
+    height: 730px!important;
+    margin-bottom: 40px !important;
+}
+
+.tituloCard {
+    font-size: 2rem!important;
+    font-weight: bold!important;
+    text-align: center !important;
+    padding-top: 30px!important;
+    margin-bottom: 50px !important;
+    
+}

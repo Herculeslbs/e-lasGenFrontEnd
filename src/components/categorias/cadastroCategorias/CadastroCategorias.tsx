@@ -94,7 +94,7 @@ async function findById(id: string){
         back()
     }
     function back(){
-        History('/listacategorias')
+        History('/dashbord')
     }
     return (
         <Container maxWidth="sm" className="topo">

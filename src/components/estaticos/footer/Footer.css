@@ -2,36 +2,98 @@
     width: 100vw!important;
 }
 
-
-
-
-
-.redes{
-    font-size: 60px!important;
-    color:white;
-}
-
 .containerRodapePrincipal{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    text-align: center;
-    padding: 30px;
+    display: flex !important;
     box-sizing: border-box!important;
-    width: 100vw;
-    height: 40vh;
-    background-color: #d2738d !important;
+    width: 100% !important;
+    height: 40vh !important;
+    background-color: #E58787 !important;
 
 }
 
 .ContainerRodapeEnd{
-    background-color: #d2738d !important;
-    width: 100vw!important;
+    background-color: #E58787 !important;
+    width: 100%!important;
     height: 10vh!important;
-    border: 1px solid rgb(248, 248, 248);
+    border-top: 1px solid rgb(0, 0, 0) !important;
 }
 
 .rodapeEndTexto {
-    color: white;
-    padding: 25px;
+    color: rgb(0, 0, 0) !important;
+    padding: 25px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
+.boxBorder {
+    margin-top: 30px !important;
+}
+
+.logoFooter {
+    width: 450px !important;
+    align-items:center !important;
+    margin-left: 30px !important;
+    
+}
+
+.textoFooter {
+    font-weight: bold !important;
+    font-size: 30px !important;
+    text-align: center !important;
+   
+   
+}
+
+.imgFooter {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 10px;
+}
+.imgFooter1 {
+    height:50px !important; 
+    width:55px !important;
+    
+}
+
+.imgFooter2 {
+    height:40px !important; 
+    width:45px !important;
+    margin-right: 8px;
+    cursor: pointer !important;
+}
+
+.text-decorator-none{
+    text-decoration: none !important;
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+}
+
+.textoFooter1 {
+ margin-left: 150px !important;
+ margin-top: 25px !important;
+ display: flex !important;
+ justify-content: center !important;
+ align-items: center !important;
+ font-size: 18px !important;
+}
+
+.mapFooter {
+    box-shadow: 5px 4px 10px black !important;
+    width: 300px !important;
+    height: 200px !important;
+    margin-left: 300px !important;
+    margin-top: 25px !important; 
+}
+
+.mapFooterTxt {
+    margin-left: 300px !important;
+    font-weight: bold !important;
+    font-size: 22px !important;
+    margin-top: 6px !important;
+   
+}
+.mapFooterTxt1 {
+    margin-left: 300px !important;
+    font-weight: bold !important;
 }

@@ -14,9 +14,21 @@ body {
   padding: 0;
 }
 
+.BoxProdutoPromocao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CardPromocao {
+   width: 300px;
+   height: 350px;
+}
+
 .mySwiper2 {
   width: 95vw;
   height: 50vh;
+  
 }
 
 .swiper-slide {

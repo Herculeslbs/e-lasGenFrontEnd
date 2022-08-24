@@ -4,11 +4,11 @@ import { Typography } from '@material-ui/core';
 import './CardProdutos.css'
 
 
-function CardProdutos() {
+function CardProdutos4() {
   return (
     <>
       <Box className="card">
-        <Box className="card-img"> <img src="https://i.imgur.com/6d61gip.png" alt="" /> </Box>
+        <Box className="card-img"> <img src="https://i.imgur.com/6yMpfNQ.png" alt="" /> </Box>
         <Box className="card-info">
           <Typography className="text-title">Jaqueta customizada</Typography>
           <p className="text-body">Jaqueta básica, aquela que vai com tudo, o tecido não é algodão e feita na mão.</p>
@@ -29,4 +29,4 @@ function CardProdutos() {
 }
 
 
-export default CardProdutos;
+export default CardProdutos4;
