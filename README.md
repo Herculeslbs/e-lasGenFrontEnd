@@ -1,46 +1,105 @@
-# Getting Started with Create React App Hercules
+<h1 align="center"><a href="https://imgur.com/eYEnHfH"><img src="https://i.imgur.com/eYEnHfH.png" title="source: imgur.com" /></a></h1>
+<h1>ℹ Sobre o Projeto</h1>
+<h2>
+<p>Projeto final da turma 54 da Generation Brasil.</p>
+<p>(texto de descrição)</p>
+</h2> <br>
+<h1>🔨 Funcionalidades</h1>
+<h2>
+<p><b>Página Home:</b></p>
+<p>Primeira a qual o usuário tem acesso, exibe produtos em destaque e principais ofertas. Conta com um menu superior onde o usuário pode ser direcionado as páginas de produtos, sobre e logar, além de visualizar o ícone do carrinho. </P>
+<p><b>Login:</b></p>
+<p>Contém os campos usuário e senha, e também um botão que leva a página de cadastro, caso o usuário ainda não o tenha.</p>
+<p><b>Cadastro:</b></p>
+<p>Dispõe dos campos nome, usuário, senha e confirmação de senha.</p>
+<p><b>Página de Produtos:</b></p>
+<p>Uma vez logado, o usuário pode acessar a lista completa de produtos, poderáe as etapas necessárias para realizar uma compra.</p>
+<p><b>Dashboard:</b></p>
+<p>Caso o usuário tenha uma perfil de administrador, poderá deletar e adicionar produtos e categorias,conforme a necessidade do estoque. </p>
+</h2> <br>
+<h1> 📁 Acesso ao projeto</h1>
+<h2>Clique <a href="https://elasgen.netlify.app/">aqui</a> para ser direcionado ao nosso site.</h2><br>
+<h1> Implementações futuras</h1>>
+<h2>
+<p>Integração total do carrinho de compras.</p>
+<p>Implementação das formas de pagamento.</p>
+<p>Integração com os correios.</p>
+<p>Aprimoramento das permissões do usuário.</p>
+<h2> <br>
+<h1> ✔️ Tecnologias utilizadas</h1>
+<h2><p><b>Back-end</b></p>
+  <img
+                            height="75"
+                            width="90"
+                            title="Java"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                        />
+   <img
+                            height="60"
+                            width="70"
+                            title="Spring Boot"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+                        />
+ <img
+                            height="60"
+                            width="70"
+                            title="MySQL"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                        />
+                        <br> <br> 
+                      
+<p><b>Front-end</b></p>
+ <img
+                            height="60"
+                            width="70"
+                            title="HTML"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                        />
+<img
+                            height="60"
+                            width="70"
+                            title="CSS"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                        />
+ <img
+                            height="60"
+                            width="70"
+                            title="Javascript"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                        />
+ <img
+                            height="60"
+                            width="70"
+                            title="Typescript"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                        />
+ <img
+                            height="60"
+                            width="70"
+                            title="React"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                        />
+ <img
+                            height="60"
+                            width="70"
+                            title="Material-UI"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+                        />
+  <img
+                            height="60"
+                            width="70"
+                            title="Redux"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+                        /> <br> <br> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+                   
+<p><b>Deploy</b></p>
+ <img
+                            height="60"
+                            width="70"
+                            title="heroku"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
+                        />
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+ <br>
